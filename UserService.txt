@@ -4,3 +4,8 @@ new data
 connect to db
 
 create an avatar for user
+
+ai feature..
+...
+...
+..
