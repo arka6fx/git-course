@@ -6,3 +6,5 @@ connect to db
 create an avatar for user
 
 login and logout
+
+chnage 1
