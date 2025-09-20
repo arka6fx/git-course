@@ -3,7 +3,6 @@ process the data
 new data 
 connect to db
 
-create an avatar for user
 
 login and logout
 
