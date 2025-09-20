@@ -1,7 +1,7 @@
 add and remove users
 change the roles
 manage the database
-closing the database connection ---> MySQL
+closing the database connection ---> MySQL jdbc
 
 change 1
 change 2 in harsh's database 
